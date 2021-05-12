@@ -4,11 +4,20 @@ Latest release:
 
 [![](https://img.shields.io/github/release/bitnami-labs/sealed-secrets.svg)](https://github.com/bitnami-labs/sealed-secrets/releases/latest)
 
+# v0.16.0
+
+## Changelog
+
+* Add ability to template arbitrary data keys within resulting secrets ([#445](https://github.com/bitnami-labs/sealed-secrets/issues/#445))
+* Fix status CRD in controller.yaml (backport from helm chart) ([#567](https://github.com/bitnami-labs/sealed-secrets/issues/#567))
+
+The full Changelog is maintained in https://github.com/bitnami-labs/sealed-secrets/milestone/26?closed=1
+
 # v0.15.0
 
 This release contains a couple of fixes in the controller and manifests.
 
-Notable mention: You can give the `SEALED_SECRETS_UPDATE_STATUS=1` feature flag another try. We'll turn it on by default in the next release.
+Notable mention: You can give the `--update-status` (also available as env var `SEALED_SECRETS_UPDATE_STATUS=1`) feature flag another try. We'll turn it on by default in ~~the next release~~ v0.17.0.
 
 ## Changelog
 

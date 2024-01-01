@@ -259,8 +259,8 @@ github.com/mattn/go-isatty v0.0.16 h1:bq3VjFmv/sOjHtdEhmkEV4x1AJtvUvOJ2PFAZ5+peK
 github.com/mattn/go-isatty v0.0.16/go.mod h1:kYGgaQfpe5nmfYZH+SKPsOc2e4SrIfOl2e/yFXSvRLM=
 github.com/matttproud/golang_protobuf_extensions v1.0.1 h1:4hp9jkHxhMHkqkrB3Ix0jegS5sx/RkqARlsWZ6pIwiU=
 github.com/matttproud/golang_protobuf_extensions v1.0.1/go.mod h1:D8He9yQNgCq6Z5Ld7szi9bcBfOoFv/3dc6xSMkL2PC0=
-github.com/mkmik/multierror v0.3.0 h1:FHr3n5BEVlzlTz8GRbuwimkL2zbdD2gTPcSh0wpRpUg=
-github.com/mkmik/multierror v0.3.0/go.mod h1:wjBYXRpDhh+8mIp+iLBOq0kZ3Y4ICTncojwvP8LUYLQ=
+github.com/mkmik/multierror v0.4.0 h1:TcH9HTFK/X1JJLOnWYp0b6mKQJuVUGwS9aFFGBfYaH8=
+github.com/mkmik/multierror v0.4.0/go.mod h1:pz+UajC3ELc35PsCPVL69CAji3J/YNRuyI4rOYdCwPY=
 github.com/modern-go/concurrent v0.0.0-20180228061459-e0a39a4cb421/go.mod h1:6dJC0mAP4ikYIbvyc7fijjWJddQyLn8Ig3JB5CqoB9Q=
 github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd h1:TRLaZ9cD/w8PVh93nsPXa1VrQ6jlwL5oN8l14QlcNfg=
 github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd/go.mod h1:6dJC0mAP4ikYIbvyc7fijjWJddQyLn8Ig3JB5CqoB9Q=
